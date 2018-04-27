@@ -1,4 +1,4 @@
-package com.zhanghuanfa;
+package com.zhanghuanfa.model;
 
 import lombok.Data;
 
@@ -7,7 +7,7 @@ import lombok.Data;
  * @date 2018-04-20 16:11
  */
 @Data
-public class ParamBean {
+public class TTSParamBean {
 
     private String auf;
     private String aue;
